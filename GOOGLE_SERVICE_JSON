@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "jovial-sound-466009-i0",
+  "private_key_id": "7b19768d75b61409716e29534c5d8de15467d49f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDHTFlVvluIOmtA\nrLTIuew0ll2xC82rTy3yWl862cD0i49e8cVsUo/fZyCL5BrnjA7q8S9a9k64Hqpm\n1BxlAXyruhJ+Oju9MSXi853xnHuD0pCA5qBTdtbaDyqw+dcCL6qowcLHMvoa1qPW\n03JkFN4USA+B3f5qy9Q6nHj52esL5uDxMs5s2Y2vACD1orHCrV+CyQ5kG9L0aK4E\n+qpuWW+37NnkPACFrkXof6D641GSLm7eKanS3YCfE3V3XozLCkyai6JvHZv1e7un\nJQks8uNYUk6T4oHqJhWzLvy35NWoWNhvZvy+VAt12t8SYB43N5wPCtcC8vltDros\nbpiUsLoTAgMBAAECggEAVg92FDybMfxoDAmIF5WRljPISYebTHpokNrNfJBDblZF\nlu44HkqYrhPOTho2M/6bAoEbvd/WplM3qie2CzfVKiKzkaZ73Xq3rYUdkxPLkmT+\n2Wq9mM0cghVCjiGU4vDKdQ0WmwY8UhKVtVKhdu475+4mJCJElsFl59lhtCKSCRTq\nwVczcRsI/4OCKBW1AsMBq/GAVw2tAReZkkmKx008wzfsHnnbqKhUvw7R2wQX8EB+\nOqdU6KYS/kuwd5gVBYPmTVAOjdliUDrwq+1etnhGYMr1Z49gB6ZLsuj8EmxJhvmq\n2FQG9FHEGa0HOvFvlwg6SURGmcpm+uhYkUkZveycAQKBgQDi02yLbe0T23cwHpwX\nuwHWTdkChlDzavucfqelk6OMfMX6eL3dWvgLEc/295383uU51biObX6uCsC4guBr\ns5uGhfG+EAM5NZnR1tMiSh8YwHXQikSRmFYw6azfRJufTvX95MtMLwdEkiobKx0D\noUdZNfeg8TGncbJ+Jcrll6WCgQKBgQDg7ol3R04Uoiz7lxcgs5104YqoLNXx5KPK\nVY5+0nXgxDWtiXiePb6cnNUR4TRMOu9XKXalp3y/8QBuaBhENiT154fyNm7fkaDY\nyA0zhlCLlnAjaSKOTn+SWYNtRuvlFk8LcZ2KotUmT53L+PxzRJAb5pWnoaYaZEyb\nm89Ydy3KkwKBgBW7We/15Tv8z+uNUzk20pM8vCjww3q+6kJxJBDKF2ZTYgiAXviB\nSbiNyVYJHVrn5CBpaJhEx1lXcGV9LJFFEQaPeLzT/esSRp2DLpFfdqFBd0g2pyEn\n7kIbcVOm2B4oS4s6y3uOGe0o793QgKQjZJmYgRQrZ616SDar2kerAtGBAoGBAMdp\nEjvJ3mISiNifUWSveDdnwNpprV6e+cpmYUbz5IdYy9HGn0WCrdsAezE3u3qdgRR/\n8OzZeJJd4aj/5guLCOds1SwZr9/KppOpf3KfcAbgXxg1m+oXk6e2bfrSNk3Jolgd\n6LJAu8EUMmvjmEPElBH4MdMET1L0eqo1zvO57MG7AoGAYNHhIaaOVo+3HGZCOkWK\nhpv6XqUTO6z+QhUT9DU90ziJ4o+q/2uIuQCNvsVaxqtLCvNVorTLdZWg+z80atEh\nXxkgReYLX1pF28AAulDlVr+TKCvxprkandmeiC2lq0evSzhmE0kspC1LqjVMZRyp\nSAe6LoBUR0BMKT/IebdFayw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "auto-drive-uploader@jovial-sound-466009-i0.iam.gserviceaccount.com",
+  "client_id": "116707371019347236802",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/auto-drive-uploader%40jovial-sound-466009-i0.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
