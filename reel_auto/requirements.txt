@@ -1,0 +1,9 @@
+requests
+pandas
+Pillow
+moviepy
+pydrive2
+slack_sdk
+croniter
+streamlit
+ffmpeg-python
